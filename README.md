@@ -1,5 +1,5 @@
-## operasi-PCD-dasar ##
-Operasi yang dilakukan untuk memanipulasi Citra
+## operasi-PCD-dasar-python ##
+Operasi yang dilakukan untuk memanipulasi Citra menggunakan PyCharm Community Edition
 
 Operasi Dasar meliputi :
 - Melakukan Downscale pada Citra, kemudian dikonversikan dari RGB ke Grayscale
